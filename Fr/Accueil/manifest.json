@@ -1,0 +1,53 @@
+{
+  "name": "Alibia.cm",
+  "short_name": "Alibia",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icone/1.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "icone/2.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "icone/3.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "icone/8.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "icone/5.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "icone/6.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icone/7.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "icone/9.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
